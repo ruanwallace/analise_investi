@@ -1,1 +1,2 @@
-# Usar a promise Axios para capturar a página HTML via HTTP.
+1 - Usar a promise Axios para capturar a página HTML via HTTP.
+2 - Será utilizado o módulo File System para armazenar a página html no cache.
